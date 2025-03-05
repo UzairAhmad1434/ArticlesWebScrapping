@@ -1,3 +1,4 @@
-Flask
-Pandas
-Numpy
+flask
+pandas
+beatifulsoup4
+requests
